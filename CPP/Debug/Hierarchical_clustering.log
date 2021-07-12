@@ -1,0 +1,7 @@
+﻿  Hierarchical_clustering.cpp
+D:\Semester8\Hierarchical_clustering\Hierarchical_clustering.cpp(110): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Hierarchical_clustering.vcxproj -> D:\Semester8\Hierarchical_clustering\Debug\Hierarchical_clustering.exe
